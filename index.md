@@ -40,8 +40,8 @@ DAY | Topics Covered
 ------- | --- 
 8     | [Rendering Elements in React](Week%202/) 
 9     | [Introduction to Components](Week%202/) 
-10     | [Types Of Components](Week%202/) 
+10    | [Types Of Components](Week%202/) 
 11    | [Functional Components](Week%202/) 
-12     | [Moving Components into separate files](Week%202/) 
-13     | [States and Props in React ](Week%202/ ) 
-14     | Task Submission and discussion
+12    | [Moving Components into separate files](Week%202/) 
+13    | [States and Props in React ](Week%202/ ) 
+14    | Task Submission and discussion
